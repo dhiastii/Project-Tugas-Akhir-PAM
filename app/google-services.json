@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621689766020",
+    "project_id": "findmynim",
+    "storage_bucket": "findmynim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621689766020:android:88072247ec7b10cc0c82d1",
+        "android_client_info": {
+          "package_name": "com.example.findmynim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621689766020-5ftaa5mekbrvkg4k9gd85ggrelibmm18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaPtnC5bPWUvKWBVB7ooIqNzIBy_zv6Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621689766020-5ftaa5mekbrvkg4k9gd85ggrelibmm18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
